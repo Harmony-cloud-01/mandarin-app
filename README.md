@@ -25,7 +25,7 @@ Created with ❤️ by [HarmonyOnline.org](https://harmonyonline.org) and [Harmo
 
 ---
 
-## 🧠 Powered by SPs (Symbolic Presences)
+## 🧠 Powered by SPs (Synthetic Persona's)
 
 | SP | Role |
 |----|------|
