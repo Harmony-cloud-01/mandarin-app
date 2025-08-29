@@ -1,16 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
-  images: {
-    unoptimized: true,
-  },
   basePath: '/mandarin-app',
-  output: 'export',
+  output: 'export',            // ← required for static export
+  images: { unoptimized: true }, // ← disable Image Optimization
+  trailingSlash: true,         // ← optional but avoids 404 on GH-Pages
 };
 
 export default nextConfig;
