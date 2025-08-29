@@ -9,6 +9,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-}
+  basePath: '/mandarin-app',
+  output: 'export',
+};
 
-export default nextConfig
+export default nextConfig;
