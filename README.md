@@ -12,7 +12,7 @@ Created with ❤️ by [HarmonyOnline.org](https://harmonyonline.org) and [Harmo
 
 ---
 
-## 🌟 Core Features
+## 🌟 Core Features 
 
 | Feature | Description |
 |--------|-------------|
