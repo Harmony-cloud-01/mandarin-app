@@ -2,7 +2,7 @@
 
 import { Badge } from "@/components/ui/badge";
 import { VolumeX, Headphones, Mic2 } from "lucide-react";
-import { useDialect } from "./dialect-provider";
+import { useDialect } from "@/hooks/use-dialect";
 import { useI18n } from "./i18n-provider";
 
 export function AudioControls() {
