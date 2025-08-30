@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Slider } from "@/components/ui/slider"
 import { Badge } from "@/components/ui/badge"
 import { VolumeX, Headphones, Mic2 } from 'lucide-react'
-import { useDialect } from "@/context/dialect-provider"
+import { useDialect } from "./dialect-provider"
 import { useI18n } from "./i18n-provider"
 
 export function AudioControls() {
